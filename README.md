@@ -52,9 +52,9 @@ To install and run the Note Taker, follow these steps:
 
 The Note Taker app utilizes Express to set up an API for handling note-related operations. The API endpoints are as follows:
 
-- GET /api/notes: Retrieves all existing notes in JSON format.
-- POST /api/notes: Creates a new note by accepting a JSON object with title and content properties.
-- DELETE /api/notes/:id: Deletes the note with the specified id.
+- GET /api/notes - Retrieves all existing notes in JSON format.
+- POST /api/notes - Creates a new note by accepting a JSON object with title and content properties.
+- DELETE /api/notes/:id - Deletes the note with the specified id.
 
 Please note that the API endpoints are accessed via the corresponding HTTP methods using tools such as Insomnia or Postman.
 
