@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,6 +15,10 @@
 ## Description
 
 The Note Taker is a simple application built using Node.js and Express framework, designed to help users quickly and easily create and manage their notes. This README file provides an overview of the app, installation instructions, and usage guidelines.
+
+## Screenshot
+
+![Demo](assets/note-taker-demo-img.png)
 
 ## Features
 
